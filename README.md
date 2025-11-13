@@ -102,11 +102,6 @@ a decentralized publishing platform, with graph-like structure.
     C
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="14" />
-    <img width="4"/>
-    C
-  </li>
-  <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="14" />
     <img width="4"/>
     C++
