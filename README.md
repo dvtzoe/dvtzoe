@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm dvtzoe.
+I'm dvtzoe, a computer engineering student at Kosen KMITL, Thailand.
 
-I'm a student at Kosen KMITL, Thailand.
-
-I (vibe) code when I'm not busy with my life.
+I like to (vibe) code when I'm not busy with my life.
