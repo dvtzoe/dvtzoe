@@ -20,19 +20,19 @@ But here's my experience of things I've worked with.
 
 ## Facts about me
 
-- Blue Archive Player
+- **Blue Archive Player** |
   Casual one. Have no student for you to borrow, sorry.
-- Games I play
+- **Games I play** |
   Roblox, Minecraft. That's it. Blue Archive is the only exception.
-- I use Arch btw.
+- **I use Arch btw.** |
   currently trying CachyOS. A bit lazy to reinstall so I stick with it.
-- Code Editor
+- **Code Editor** |
   Neovim main. Can use Zed or VSCode if needed (with vim keybindings).
-- I hate hate
+- **I hate hate**
   Even hate against hate. Haters also deserved to be loved. Do I hate them? Uh...
-- AI - ok | AI slop - **NO**
+- **AI - ok; AI slop - NO** |
   AI code is okay when it's actually good quality
-- Loved > Production
+- **Loved > Production** |
   Loved projects will have quality higher than production grade.
 
 ## Contact
